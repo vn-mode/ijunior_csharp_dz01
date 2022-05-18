@@ -9,7 +9,7 @@ namespace vn_csharp_dz01
             string name;
             int eatCount;
             byte health;
-            bool run;
+            bool isRun;
             char symbol;
             float money;
             double grade;
